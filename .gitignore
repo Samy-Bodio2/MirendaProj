@@ -1,0 +1,5 @@
+# .gitignore
+.gradle/
+.idea/
+UsersBertixDesktopappmirenda/
+# Ajoutez d'autres fichiers/dossiers à ignorer selon vos besoins
